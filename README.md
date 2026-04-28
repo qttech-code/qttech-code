@@ -1,4 +1,8 @@
-## Hi there 👋
+## Need Your Own Software Developer(s) from India?
+Good Day from Rakesh Patel - Ahmedabad, India.
+
+Please visit my Company's website www.qttech.in.
+OR contact +91-9512039352 by WhatsApp / write to quantumtreetech@gmail.com
 
 <!--
 **qttech-code/qttech-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
